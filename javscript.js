@@ -1,1 +1,1 @@
-console.log("Hello,Badges")
+console.log("Hello,")
